@@ -1,0 +1,231 @@
+[
+  {
+    "title": "Water Purification Units Installation",
+    "image": "https://i.ibb.co/GH8FXdS/z.jpg",
+    "category": "Water & Sanitation",
+    "amount": 200000,
+    "description": "Installing water purification units to ensure access to clean and safe drinking water in disaster-affected areas."
+  },
+  {
+    "title": "Emergency Vaccination Campaigns",
+    "image": "https://i.ibb.co/27VmL1W/s.jpg",
+    "category": "Healthcare Services",
+    "amount": 450000,
+    "description": "Conducting emergency vaccination campaigns to prevent the outbreak of infectious diseases in post-disaster communities."
+  },
+  {
+    "title": "Community Health Education Programs",
+    "image": "https://i.ibb.co/ZdnYVXR/p.jpg",
+    "category": "Health Education",
+    "amount": 150000,
+    "description": "Organizing health education programs to raise awareness about disease prevention, hygiene practices, and emergency healthcare procedures."
+  },
+  {
+    "title": "Emergency Medical Personnel Recruitment",
+    "image": "https://i.ibb.co/GpjJV1b/o.jpg",
+    "category": "Healthcare Services",
+    "amount": 300000,
+    "description": "Recruiting and deploying trained medical personnel to provide medical care and support services in disaster-affected regions."
+  },
+  {
+    "title": "Medical Equipment Procurement",
+    "image": "https://i.ibb.co/L8cP9Lk/n.jpg",
+    "category": "Medical Supplies",
+    "amount": 400000,
+    "description": "Procuring essential medical equipment such as ventilators, defibrillators, and diagnostic tools to enhance healthcare infrastructure in disaster areas."
+  },
+  {
+    "title": "Emergency Shelter and Medical Camps",
+    "image": "https://i.ibb.co/Dpm0KZP/m.jpg",
+    "category": "Shelter & Healthcare Services",
+    "amount": 600000,
+    "description": "Setting up emergency shelters and medical camps to provide temporary housing and medical assistance to displaced individuals."
+  },
+  {
+    "title": "Psychological Support and Counseling",
+    "image": "https://i.ibb.co/QcwYwtj/l.jpg",
+    "category": "Mental Health Services",
+    "amount": 250000,
+    "description": "Offering psychological support, counseling, and mental health services to individuals affected by trauma and stress in disaster-affected communities."
+  },
+  {
+    "title": "Emergency Food Distribution",
+    "image": "https://i.ibb.co/zQDfCLt/k.jpg",
+    "category": "Food & Nutrition",
+    "amount": 30000,
+    "description": "Providing emergency food supplies to ensure adequate nutrition for disaster-affected populations, addressing food insecurity and malnutrition."
+  },
+  {
+    "category": "Medical Supplies",
+    "title": "First-Aid Kits (50 Pack)",
+    "image": "https://i.ibb.co/5cDg1Q4/j.jpg",
+    "amount": 500,
+    "description": "Compact and portable first-aid kits equipped with essential medical supplies for treating minor injuries."
+  },
+  {
+    "category": "Equipment",
+    "title": "Water Purification Tablets (1000 Tablets)",
+    "image": "https://i.ibb.co/tQhvGCL/images.jpg",
+    "amount": 500,
+    "description": "Efficient and easy-to-use tablets for purifying contaminated water, ensuring safe drinking water in disaster zones."
+  },
+  {
+    "category": "Relief Kits",
+    "title": "Emergency Shelter Kits (20 Units)",
+    "image": "https://i.ibb.co/xgc0tsq/i.jpg",
+    "amount": 10,
+    "description": "All-in-one kits providing temporary shelter, warmth, and essential survival tools for individuals and families."
+  },
+  {
+    "category": "Medical Supplies",
+    "title": "Trauma Dressing Bandages (Pack of 100)",
+    "image": "https://i.ibb.co/8Xkzy6w/h.jpg",
+    "amount": 30500,
+    "description": "Highly absorbent bandages designed for managing severe wounds and injuries, essential for medical emergencies."
+  },
+  {
+    "category": "Equipment",
+    "title": "Solar-Powered Lanterns (Set of 5)",
+    "image": "https://i.ibb.co/TMdT6Dh/g.jpg",
+    "amount": 24000,
+    "description": "Durable and eco-friendly lanterns powered by solar energy, providing reliable illumination in emergency situations."
+  },
+  {
+    "category": "Relief Kits",
+    "title": "Hygiene Kits (30 Units)",
+    "image": "https://i.ibb.co/TL0JkN6/f.jpg",
+    "amount": 15000,
+    "description": "Essential hygiene supplies including soap, toothbrushes, and towels, promoting cleanliness and sanitation in disaster-affected areas."
+  },
+  {
+    "category": "Medical Supplies",
+    "title": "Antibiotic Ointment (Pack of 50)",
+    "image": "https://i.ibb.co/Yf8yJB2/e.jpg",
+    "amount": 2500,
+    "description": "Topical ointment containing antibiotics, effective for preventing infection in minor cuts and abrasions."
+  },
+  {
+    "category": "Equipment",
+    "title": "Emergency Blankets (Pack of 10)",
+    "image": "https://i.ibb.co/fpyg22R/d.jpg",
+    "amount": 180000,
+    "description": "Insulating and lightweight blankets designed to retain body heat, providing warmth in harsh weather conditions."
+  },
+  {
+    "category": "Relief Kits",
+    "title": "Food Ration Packs (25 Units)",
+    "image": "https://i.ibb.co/Z8J8ZQJ/c.png",
+    "amount": 45000,
+    "description": "Nutrient-rich food packs containing essential provisions for sustenance during emergencies, ensuring food security for affected populations."
+  },
+  {
+    "category": "Sanitation",
+    "title": "Portable Toilets (5 Units)",
+    "image": "https://i.ibb.co/pwcK8MC/b.jpg",
+    "amount": 31500,
+    "description": "Compact and easy-to-install portable toilets for maintaining sanitation and hygiene standards in disaster-affected areas."
+  },
+  {
+    "title": "Communication",
+    "image": "https://i.ibb.co/HCCS66d/a.jpg",
+    "category": "Healthcare Services",
+    "amount": 350000,
+    "description": "Deploying mobile medical clinics equipped with essential healthcare facilities to provide on-site medical assistance in affected communities."
+  }
+]
+
+
+
+
+
+
+
+
+// reviews json data
+
+[
+  {
+    "name": "John",
+    "image": "https://i.ibb.co/SfMCzDn/a1.jpg",
+    "rating": 4.5,
+    "review": "Compact and portable first-aid kits are lifesavers! They come equipped with all the essential medical supplies needed to treat minor injuries. Highly recommended."
+  },
+  {
+    "name": "Emma john",
+    "image": "https://i.ibb.co/0Z0vGnW/a2.jpg",
+    "rating": 5,
+    "review": "Water purification tablets are a must-have in emergency situations. These tablets are easy to use and effectively purify contaminated water, ensuring safe drinking water for everyone."
+  },
+  {
+    "name": "Michael jackson",
+    "image": "https://i.ibb.co/0Z0vGnW/a2.jpg",
+    "rating": 4,
+    "review": "Emergency shelter kits provide temporary relief and protection during disasters. They contain all the necessary tools and materials to set up a shelter quickly."
+  },
+  {
+    "name": "Sarah khan",
+    "image": "https://i.ibb.co/PYD1qNL/a3.jpg",
+    "rating": 4.5,
+    "review": "Trauma dressing bandages are essential for managing severe wounds and injuries. They are highly absorbent and help in preventing infections. Great product!"
+  },
+  {
+    "name": "David clark",
+    "image": "https://i.ibb.co/Tb7b9w0/a4.jpg",
+    "rating": 5,
+    "review": "Solar-powered lanterns are excellent for emergency lighting. They are durable, eco-friendly, and provide reliable illumination during power outages."
+  },
+  {
+    "name": "Olivia meckao",
+    "image": "https://i.ibb.co/b6XK1Qt/a5.jpg",
+    "rating": 4,
+    "review": "Hygiene kits contain all the essential supplies needed to maintain cleanliness and hygiene in disaster-affected areas. They are a necessity for promoting good health."
+  },
+  {
+    "name": "James daniel",
+    "image": "https://i.ibb.co/RPRrY9C/a6.jpg",
+    "rating": 4.5,
+    "review": "Antibiotic ointment is a must-have in every first-aid kit. It helps in preventing infections and promotes faster healing of minor cuts and abrasions."
+  },
+  {
+    "name": "Sophia sarah",
+    "image": "https://i.ibb.co/zhgVGqm/a10.jpg",
+    "rating": 4,
+    "review": "Emergency blankets are essential for providing warmth and insulation in harsh weather conditions. They are lightweight and compact, making them easy to carry."
+  },
+  {
+    "name": "Ethan pathan",
+    "image": "https://i.ibb.co/QjtYWXF/a7.jpg",
+    "rating": 4.5,
+    "review": "Food ration packs are a lifesaver during emergencies. They provide essential nutrients and sustenance, ensuring food security for affected populations."
+  },
+  {
+    "name": "Isabella kaka",
+    "image": "https://i.ibb.co/529TC1p/a8.jpg",
+    "rating": 5,
+    "review": "Disposable gloves are essential for maintaining hygiene and preventing cross-contamination. They are suitable for medical examinations and handling contaminated materials."
+  },
+  {
+    "name": "William",
+    "image": "https://i.ibb.co/529TC1p/a8.jpg",
+    "rating": 4.5,
+    "review": "Portable water filtration systems are crucial for ensuring access to clean drinking water during emergencies. They are compact and efficient."
+  },
+  {
+    "name": "Ava",
+    "image": "https://i.ibb.co/PYD1qNL/a3.jpg",
+    "rating": 4,
+    "review": "Warm clothing packs provide essential protection against cold weather conditions. They are comfortable and keep you warm in harsh environments."
+  },
+  {
+    "name": "Noah",
+    "image": "https://i.ibb.co/QjtYWXF/a7.jpg",
+    "rating": 5,
+    "review": "Burn cream is a must-have in every first-aid kit. It soothes and protects minor burns and helps in promoting faster healing. Highly recommended!"
+  },
+  {
+    "name": "Liam balam",
+    "image": "https://i.ibb.co/529TC1p/a8.jpg",
+    "rating": 4,
+    "review": "Baby care kits contain all the essential supplies needed for infants during emergencies. They are comprehensive and provide peace of mind to parents."
+  }
+]
